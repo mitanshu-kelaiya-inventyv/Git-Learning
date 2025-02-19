@@ -1,6 +1,6 @@
 # Learn Git Branching
 
-[Learn Git Branching](https://learngitbranching.js.org/) is an interactive website designed to help users understand Git commands and workflows through a visual interface.
+[Learn Git Branching](https://learngitbranching.js.org/) is an interactive website designed to understand Git commands and workflows through a visual interface.
 
 ## About Website
 
