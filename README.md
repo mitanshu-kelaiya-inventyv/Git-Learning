@@ -17,4 +17,5 @@
 3. Use the visual representation to understand how Git commands modify the repository..
 
 ## Screenshot
-![Completion Progress](Screenshot%202025-02-19%20121118.png)
+![Screenshot 2025-02-19 121118](https://github.com/user-attachments/assets/e4d7ad71-737f-43f2-974e-29fd87b829e6)
+
